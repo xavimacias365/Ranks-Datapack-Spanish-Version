@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Ranks Datapack (Spanish Version)",
+            "color": "yellow"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "id": "minecraft:yellow_banner",
+            "count": 1
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "rangos": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "creeperx365:root"
+}
